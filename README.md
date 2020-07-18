@@ -1,4 +1,4 @@
-![About](/about.gif)
+![About](https://github.com/imthaghost/imthaghost/blob/master/about.gif)
 
 <!--
 **imthaghost/imthaghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
