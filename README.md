@@ -1,4 +1,4 @@
-![Hey There😄](about.gif)
+![About](/about.gif)
 
 <!--
 **imthaghost/imthaghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
