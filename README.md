@@ -1,2 +1,2 @@
-![About](https://github.com/imthaghost/imthaghost/blob/master/about.gif)
+![About](https://github.com/imthaghost/imthaghost/blob/master/imthaghost.gif)
 
