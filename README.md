@@ -8,7 +8,7 @@ Just your friendly neighborhood Go dabbler who loves network programming, and co
 
 
 [![pgp](https://img.shields.io/badge/pgp-0x1C941973709A1830-313131?style=flat&labelColor=545454&color=313131)](https://github.com/imthaghost.gpg) 
-[![views](https://komarev.com/ghpvc/?username=imthaghost&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/orhun)
+[![views](https://komarev.com/ghpvc/?username=imthaghost&style=flat&color=313131&label=views&abbreviated=true)](https://github.com/imthaghost)
 
 <br>
 
