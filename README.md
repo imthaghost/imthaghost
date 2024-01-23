@@ -18,8 +18,5 @@ Run `ssh git.imthaghost.dev` to browse my repositories in your terminal.
 
 I'm a software engineer with 3 years of experience in a variety of domains. For the past few years, I've focused on web application performance/scalability, microservice orchestration, and platform development - tinkering with machine learning, and all things Cloud Native.
 
-</center>
-
-Check out my dotfiles [here](https://github.com/imthaghost/dotfiles).
 
 **~** [_imthaghost_](https://garyf.dev/)
