@@ -14,7 +14,7 @@ Just your friendly neighborhood Go dabbler who loves network programming, and co
 
 <br>
 
-Run `ssh git.imthaghost.dev` to browse my repositories in your terminal.
+[//]: # (Run `ssh git.imthaghost.dev` to browse my repositories in your terminal.)
 
 ### About Me
 
